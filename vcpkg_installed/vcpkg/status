@@ -1,0 +1,252 @@
+Package: vcpkg-cmake-config
+Version: 2022-02-06
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 186026c24f6f79245173374b756b8da8183f70ce9855c6408e8b45627537b33c
+Status: purge ok not-installed
+
+Package: vcpkg-cmake
+Version: 2023-05-04
+Architecture: x64-windows
+Multi-Arch: same
+Abi: cac344ef46d5705232d660c4d8e650bc9abe3aad9b156c7968ede6640bbdae8b
+Status: purge ok not-installed
+
+Package: egl-registry
+Version: 2022-09-20
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7f06b58f693266690b7b45299590b44956c7006f6071fa4fb81b5750a6b88da1
+Description: the EGL API and Extension Registry
+Status: purge ok not-installed
+
+Package: opengl-registry
+Version: 2022-09-29
+Port-Version: 1
+Depends: egl-registry
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6ff70c1f97101b021a72a2783d940c3b68706d41a6a903ff5826ca6fc3f8b1ca
+Description: the API and Extension registries for the OpenGL family APIs
+Status: purge ok not-installed
+
+Package: glad
+Version: 0.1.36
+Depends: egl-registry, opengl-registry, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: dcdd9f0d6e679c82f98e6b5cc7588e40f0d482e409c1355335ed516b870d0a98
+Description: Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+Default-Features: loader
+Status: purge ok not-installed
+
+Package: glad
+Feature: loader
+Architecture: x64-windows
+Multi-Arch: same
+Description: Generate loader logic.
+Status: purge ok not-installed
+
+Package: opengl
+Version: 2022-12-04
+Port-Version: 3
+Depends: opengl-registry
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 873c48d2330b1f81a95caf0c14170db6c482b7c58a9c88562115ceddac37032a
+Description: Open Graphics Library (OpenGL)[3][4][5] is a cross-language, cross-platform application programming interface (API) for rendering 2D and 3D vector graphics.
+Status: purge ok not-installed
+
+Package: glew
+Version: 2.2.0
+Port-Version: 3
+Depends: opengl, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e87e9f7b6bb48b8a58168f12b0ec91f6e8384a0092c92fca35fa76457c5b3b48
+Description: The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library.
+Status: purge ok not-installed
+
+Package: glfw3
+Version: 3.3.9
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0f0ad819509bf613baa830f521f40fa2eb9d7352372e5c21a913e945aa3a64ad
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+Status: purge ok not-installed
+
+Package: glm
+Version: 1.0.0
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 91a002434f0226cbb0b6019b98b8868cd683b7d4ac388ff7fae6dd9a77124a07
+Description: OpenGL Mathematics (GLM)
+Status: purge ok not-installed
+
+Package: stb
+Version: 2023-04-11
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 11ac1176bfbb238c7d367396fc3b50272a35ddd2e0a12b07fdbd769142a26524
+Description: public domain header-only libraries
+Status: purge ok not-installed
+
+Package: openal-soft
+Version: 1.23.1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: fdaacb06b079e4fb2641d0c44a9f42e633ccac1471396ca4d58c0f6458f401a8
+Description: OpenAL Soft is an LGPL-licensed, cross-platform, software implementation of the OpenAL 3D audio API.
+Status: purge ok not-installed
+
+Package: libogg
+Version: 1.3.5
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 59dc2c5fece2693bd41a9d2efc1d7336aece4c3ea1294894013edac3d5b86241
+Description: Ogg is a multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs.
+Status: purge ok not-installed
+
+Package: libvorbis
+Version: 1.3.7
+Port-Version: 2
+Depends: libogg, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: dec696af45f7e5dad39fb88bd821ee635709a3a07ab8f83080f61b8e86502608
+Description: Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format
+Status: purge ok not-installed
+
+Package: libflac
+Version: 1.4.3
+Depends: libogg, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ed30c311f14b690a5d54f89f2c4425f4418fee2bf05dd258964a5a96078e9aee
+Description: Library for manipulating FLAC files
+Status: purge ok not-installed
+
+Package: zlib
+Version: 1.3.1
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d9880f56294d3ca594fb6e215ad4e0f83484711d90318b15c92b388014779099
+Description: A compression library
+Status: purge ok not-installed
+
+Package: libpng
+Version: 1.6.40
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0d0ed6394990487cf4d484253757272ac2897a9f1deb7d55c0858a1671317e16
+Description: libpng is a library implementing an interface for reading and writing PNG (Portable Network Graphics) format files
+Status: purge ok not-installed
+
+Package: bzip2
+Version: 1.0.8
+Port-Version: 5
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f4c4e810e64c9b86a4b21ffbc90f6f68e5b1923bff53f360ea326ff6d3fd76bd
+Description: bzip2 is a freely available, patent free, high-quality data compressor. It typically compresses files to within 10% to 15% of the best available techniques (the PPM family of statistical compressors), whilst being around twice as fast at compression and six times faster at decompression.
+Default-Features: tool
+Status: purge ok not-installed
+
+Package: bzip2
+Feature: tool
+Architecture: x64-windows
+Multi-Arch: same
+Description: Builds bzip2 executable
+Status: purge ok not-installed
+
+Package: brotli
+Version: 1.1.0
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b6bd63697ee0b122f671130acd2cabeb11f45b3c25e391a30f00f7e88ebdcdb5
+Description: a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling.
+Status: purge ok not-installed
+
+Package: freetype
+Version: 2.13.2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ea15283282ceeae716db0d20c3d8ca67a8f2c61542fb3641866ed2104daa49ee
+Description: A library to render fonts.
+Default-Features: brotli, bzip2, png, zlib
+Status: purge ok not-installed
+
+Package: freetype
+Feature: brotli
+Depends: brotli
+Architecture: x64-windows
+Multi-Arch: same
+Description: Support decompression of WOFF2 streams
+Status: purge ok not-installed
+
+Package: freetype
+Feature: bzip2
+Depends: bzip2
+Architecture: x64-windows
+Multi-Arch: same
+Description: Support bzip2 compressed fonts.
+Status: purge ok not-installed
+
+Package: freetype
+Feature: png
+Depends: libpng
+Architecture: x64-windows
+Multi-Arch: same
+Description: Support PNG compressed OpenType embedded bitmaps.
+Status: purge ok not-installed
+
+Package: freetype
+Feature: zlib
+Depends: zlib
+Architecture: x64-windows
+Multi-Arch: same
+Description: Use zlib instead of internal library for DEFLATE
+Status: purge ok not-installed
+
+Package: sfml
+Version: 2.6.1
+Depends: freetype, libflac, libogg, libvorbis, openal-soft, opengl, stb, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ed8ec3f0b7010d36ffbfd31c7c388e68a8df98bb0f57794a768a1ee6af70b502
+Description: Simple and fast multimedia library
+Status: purge ok not-installed
+
+Package: soil
+Version: 2021-04-22
+Port-Version: 2
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: eb5ef679ceb3711d815321bef1ae95040923a569cf250d78e6ba0d96b518d022
+Description: SOIL is a tiny C library used primarily for uploading textures into OpenGL.
+Status: purge ok not-installed
+
+Package: linmath
+Version: 2022-07-30
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7dbd9360cc24b71c383dc15a2cfea0346dd354ab24a7064a57679d88c9207900
+Description: linmath.h -- A small library for linear math as required for computer graphics
+Status: purge ok not-installed
+

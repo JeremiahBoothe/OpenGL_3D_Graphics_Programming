@@ -1,0 +1,12 @@
+prefix=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug
+exec_prefix=${prefix}
+libdir=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib
+includedir=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include
+
+Name: OpenAL
+Description: OpenAL is a cross-platform 3D audio API
+Requires: 
+Version: 1.23.1
+Libs: -L${libdir} -lOpenAL32 
+Libs.private:
+Cflags: -I${includedir} -I${includedir}/AL 

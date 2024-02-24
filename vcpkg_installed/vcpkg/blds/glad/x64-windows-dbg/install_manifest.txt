@@ -1,0 +1,7 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/lib/glad.lib
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/include/glad/glad.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/include/KHR/khrplatform.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/lib/cmake/glad/gladConfig.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/lib/cmake/glad/gladConfigVersion.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/lib/cmake/glad/gladTargets.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glad_x64-windows/debug/lib/cmake/glad/gladTargets-debug.cmake

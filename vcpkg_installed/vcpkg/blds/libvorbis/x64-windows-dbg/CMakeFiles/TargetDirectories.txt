@@ -1,0 +1,13 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/CMakeFiles/edit_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/CMakeFiles/list_install_components.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/CMakeFiles/install.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/CMakeFiles/install/local.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/vorbis.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/vorbisenc.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/vorbisfile.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/edit_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/rebuild_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/list_install_components.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/install.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/CMakeFiles/install/local.dir

@@ -1,0 +1,11 @@
+prefix=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glew_x64-windows/debug
+exec_prefix=${prefix}
+libdir=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/glew_x64-windows/debug/lib
+includedir=${prefix}/include
+
+Name: glew
+Description: The OpenGL Extension Wrangler library
+Version: 2.2.0
+Cflags: -I${includedir} 
+Libs: -L${libdir} -lglew32 
+Requires: glu

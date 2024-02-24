@@ -1,0 +1,6 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng16d.lib
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/bin/libpng16d.dll
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/pkgconfig/libpng16.pc
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng/libpng16.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng/libpng16-debug.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng/libpng-config.cmake

@@ -1,0 +1,22 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/OpenAL32.lib
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/bin/OpenAL32.dll
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/cmake/OpenAL/OpenALTargets.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/cmake/OpenAL/OpenALTargets-debug.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/al.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/alc.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/alext.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/efx-creative.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/efx-presets.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/include/AL/efx.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/pkgconfig/openal.pc
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/lib/cmake/OpenAL/OpenALConfig.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/alsoftrc.sample
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/hrtf/Default HRTF.mhr
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/3D7.1.ambdec
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/hex-quad.ambdec
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/hexagon.ambdec
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/itu5.1-nocenter.ambdec
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/itu5.1.ambdec
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/presets.txt
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/rectangle.ambdec
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/debug/share/openal/presets/square.ambdec

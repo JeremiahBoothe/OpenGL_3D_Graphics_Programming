@@ -1,0 +1,16 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbis.pc
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbisenc.pc
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbisfile.pc
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/include/vorbis/codec.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/include/vorbis/vorbisenc.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/include/vorbis/vorbisfile.h
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/vorbis.lib
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbis.dll
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/vorbisenc.lib
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbisenc.dll
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/vorbisfile.lib
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbisfile.dll
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisTargets.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisTargets-debug.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisConfig.cmake
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisConfigVersion.cmake

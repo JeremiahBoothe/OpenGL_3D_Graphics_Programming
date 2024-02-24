@@ -1,0 +1,176 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/soil-x64-windows-2021-04-22#2-6d7e2cf4-31e6-4e08-984e-1ff047b70b9e",
+  "name": "soil:x64-windows@2021-04-22#2 7f4e2f24e3a245cc37c20b80a1e7c82d493ea28cd80d3d9c084058912abc43cd",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-1c9ec1978a6b0c2b39c9e9554a96e3e275f7556e"
+    ],
+    "created": "2024-02-24T12:33:13Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-3"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-4"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-3",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-4",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "soil",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "2021-04-22#2",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@71412fe0daffe8a8cd06f6d094544291f4ad5e02",
+      "homepage": "https://github.com/paralin/soil",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "SOIL is a tiny C library used primarily for uploading textures into OpenGL.",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "soil:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "7f4e2f24e3a245cc37c20b80a1e7c82d493ea28cd80d3d9c084058912abc43cd",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "paralin/soil",
+      "downloadLocation": "git+https://github.com/paralin/soil@8bb18a909f94e58afbc0bda941ffc6eee58b4066",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "6cbaa10d8b2a274c389fda723db53a3f1ba7d25a7367df40efec4d0553c09f0d67fb16f927bba2ff0aed4234e3a83922edcc574ffac72dd7e05d6cec768b561b"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/71412fe0daffe8a8cd06f6d094544291f4ad5e02/fix-cmakelists.patch",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08b591bf8af242527d8a0b41a0a53ff68daf76ec789e8c1f7a759d218a8f0649"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/71412fe0daffe8a8cd06f6d094544291f4ad5e02/portfile.cmake",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dcea231931da2e89dd8d2709230fa9eb69a844ef7586d08b1e6b1826a22f340d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/71412fe0daffe8a8cd06f6d094544291f4ad5e02/soilConfig.cmake.in",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bea7bc2f5843dcc81352cffe2bccb895bfc7ed4c66f0548260e535e6561192e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/71412fe0daffe8a8cd06f6d094544291f4ad5e02/soilConfigVersion.cmake.in",
+      "SPDXID": "SPDXRef-file-3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fea0a123af645e1ddd3529bfa5c81d0d3b353ec62f244c2c787f2aab048a86be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/71412fe0daffe8a8cd06f6d094544291f4ad5e02/vcpkg.json",
+      "SPDXID": "SPDXRef-file-4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a89ba42c5a126ea2259adade234034c8f67c8f588cdc6df7b7a055aa2281bec8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

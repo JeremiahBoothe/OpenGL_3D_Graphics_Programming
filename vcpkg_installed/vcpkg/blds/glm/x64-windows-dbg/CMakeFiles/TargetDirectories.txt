@@ -1,0 +1,16 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/uninstall.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/package.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/package_source.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/edit_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/list_install_components.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/install.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/CMakeFiles/install/local.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/glm.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/package.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/package_source.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/edit_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/rebuild_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/list_install_components.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/install.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glm/x64-windows-dbg/glm/CMakeFiles/install/local.dir

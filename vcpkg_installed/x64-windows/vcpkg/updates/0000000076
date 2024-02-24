@@ -1,0 +1,7 @@
+Package: linmath
+Version: 2022-07-30
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 04fad7738bb83ed6e11e9803740e6e5ac8ec97049938f087488271208582e984
+Description: linmath.h -- A small library for linear math as required for computer graphics
+Status: install ok half-installed

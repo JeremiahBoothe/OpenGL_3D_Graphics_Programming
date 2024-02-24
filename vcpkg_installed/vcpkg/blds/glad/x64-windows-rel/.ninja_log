@@ -1,0 +1,8 @@
+# ninja log v5
+5	482	7304808813703859	include/glad/glad.h	182c0aabb4888fc
+5	482	7304808813703859	src/glad.c	182c0aabb4888fc
+5	482	7304808813703859	D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glad/x64-windows-rel/include/glad/glad.h	182c0aabb4888fc
+5	482	7304808813703859	D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/glad/x64-windows-rel/src/glad.c	182c0aabb4888fc
+483	928	7304808819157999	CMakeFiles/glad.dir/src/glad.c.obj	6a2b4af4340d02ec
+930	1001	7304808819857810	glad.lib	c462afa6d1c17456
+1001	1131	0	CMakeFiles/install.util	3ccfae09123e3da4

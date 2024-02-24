@@ -1,0 +1,110 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/linmath-x64-windows-2022-07-30-b68dadce-e000-4438-9847-b1f613215621",
+  "name": "linmath:x64-windows@2022-07-30 04fad7738bb83ed6e11e9803740e6e5ac8ec97049938f087488271208582e984",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-1c9ec1978a6b0c2b39c9e9554a96e3e275f7556e"
+    ],
+    "created": "2024-02-24T12:29:54Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "linmath",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "2022-07-30",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@0ecd0a63de52eff819e837a8fe44856b07228376",
+      "homepage": "https://github.com/datenwolf/linmath.h",
+      "licenseConcluded": "WTFPL",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "linmath.h -- A small library for linear math as required for computer graphics",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "linmath:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "04fad7738bb83ed6e11e9803740e6e5ac8ec97049938f087488271208582e984",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "WTFPL",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "datenwolf/linmath.h",
+      "downloadLocation": "git+https://github.com/datenwolf/linmath.h@3eef82841046507e16a0f6194a61cee2eadd34b3",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "cd8bc9c29b984cbb2fb1a1e743566e8f099d243c294658e84980cdbd83c881122f1abee68c50139ee9fddaa96f22f52eeae8e26dc86caa114cd11ebe5644a4db"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/0ecd0a63de52eff819e837a8fe44856b07228376/portfile.cmake",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ddad806f7e626b04e5477e20a26ec57fe0a537b394e2ec913570c7688fedac3b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/jerem/AppData/Local/vcpkg/registries/git-trees/0ecd0a63de52eff819e837a8fe44856b07228376/vcpkg.json",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fcec2e2d60bd730b0519988c0a5dba783d696196a80f0c61ab80d3b46c4e197"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

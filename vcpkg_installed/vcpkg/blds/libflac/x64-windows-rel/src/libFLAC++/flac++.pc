@@ -1,0 +1,11 @@
+prefix=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows
+exec_prefix=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows
+libdir=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/lib
+includedir=D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows/include
+
+Name: FLAC++
+Description: Free Lossless Audio Codec Library (C++ API)
+Version: 1.4.3
+Requires: flac
+Libs: -L${libdir} -lFLAC++
+Cflags: -I${includedir}

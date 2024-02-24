@@ -1,0 +1,8 @@
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/freetype.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/package.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/package_source.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/edit_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/list_install_components.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/install.dir
+D:/My Documents/Programming Projects/VisualStudio/CS330/JB_CS_330/JBCustomOpenGLSetup/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/install/local.dir

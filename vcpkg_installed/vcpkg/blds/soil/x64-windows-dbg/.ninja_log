@@ -1,0 +1,7 @@
+# ninja log v5
+4	96	7304811926210923	CMakeFiles/soil.dir/src/image_helper.c.obj	1cad04a970ee9b78
+22	123	7304811926490924	CMakeFiles/soil.dir/src/image_DXT.c.obj	51d7949883026d0c
+13	152	7304811926770922	CMakeFiles/soil.dir/src/stb_image_aug.c.obj	c5f1e6fed823ad30
+30	268	7304811927941220	CMakeFiles/soil.dir/src/SOIL.c.obj	6b169dd58ad354ab
+268	328	7304811928507596	soil.lib	4544af95fbf124ae
+329	428	0	CMakeFiles/install.util	b9649e36cc4a98a0

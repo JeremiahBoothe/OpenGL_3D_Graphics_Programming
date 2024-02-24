@@ -1,0 +1,14 @@
+{
+  "name": "jbcustomopenglsetup",
+  "version": "1.0",
+  "dependencies": [
+    "glew",
+    "glfw3",
+    "glm",
+    "glad",
+    "soil",
+    "stb",
+    "sfml",
+    "linmath"
+  ]
+}

@@ -1,0 +1,7 @@
+Package: glfw3
+Version: 3.3.9
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6e6951f4b435e7937c5f53d4026b2b9b90475f4aaa19381b2c7fd7ce525ad6b5
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
