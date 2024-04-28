@@ -2,6 +2,7 @@
 #define GLM_ENABLE_EXPERIMENTAL
 #define STB_IMAGE_IMPLEMENTATION
 /* Internal Project .h files*/
+
 #include "ShapeObject.h"
 #include "MeshDimensions.h"
 #include "ShaderCompiler.h"

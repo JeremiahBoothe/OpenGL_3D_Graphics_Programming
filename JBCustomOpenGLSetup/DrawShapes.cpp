@@ -25,7 +25,7 @@ int main(int argc, char* argv[])
     // new starting point, to minimize the main function.
     BuildShapes(ShapeMap, ShaderPrograms);
 
-    /* Loop until the user closes the window */
+    // Loop until the user closes the window
     while (!glfwWindowShouldClose(window))
     {
         float currentFrame = static_cast<float>(glfwGetTime());
@@ -169,7 +169,6 @@ void BuildShapes(
                 basicCubeObjectStruct.vertices,
                 texturesStruct.tableTexture,
                 TextureId);*/
-
 
             UCreateShape("lightPyramid",
                 ShapeMap,
@@ -483,7 +482,6 @@ void URenderShape(
 
     glm::mat4 view = camera.GetViewMatrix();
 
-
     const glm::vec3 cameraPosition = camera.Position;
     // prints current position to console
     //std::cout << camera.Position.x << ", " << camera.Position.y << ", " << camera.Position.z << std::endl;
@@ -525,7 +523,6 @@ void URenderShape(
         const std::string& name = pair.first;
         if (name == "tableTop1")
         {
-
             /*glBindFramebuffer(GL_FRAMEBUFFER, ShapeMap.at(name)->getFbo());
             glFramebufferTexture2D(GL_FRAMEBUFFER, GL_DEPTH_ATTACHMENT, GL_TEXTURE_2D, ShapeMap.at(name)->getDepthMap(), 0);
             glDrawBuffer(GL_NONE);
@@ -544,10 +541,7 @@ void URenderShape(
             lightView = glm::lookAt(lightPos, glm::vec3(0.0f), glm::vec3(0.0, 1.0, 0.0));
             lightSpaceMatrix = lightProjection * lightView;
 
-
-
             glUniformMatrix4fv(glGetUniformLocation(shaderCollection.at("shadowDepthProgram")->getShaderProgram(), "lightSpaceMatrix"),1 , GL_FALSE, &lightSpaceMatrix[0][0]);
-
 
             const unsigned int SHADOW_WIDTH = 1024, SHADOW_HEIGHT = 1024;
             glViewport(0, 0, SHADOW_WIDTH, SHADOW_HEIGHT);
@@ -578,7 +572,6 @@ void URenderShape(
 
             glActiveTexture(GL_TEXTURE0);
             glBindTexture(GL_TEXTURE_2D, ShapeMap.at(name)->getTextureId());
-
 
             glDrawArrays(GL_TRIANGLES, 0, static_cast<GLsizei>(ShapeMap.at(name)->getVertices().size()));
         };
@@ -1088,7 +1081,6 @@ void URenderShape(
             glBindVertexArray(0);
         }
 
-
         if (name == "Skybox")
         {
             glDepthFunc(GL_LEQUAL);
@@ -1109,10 +1101,12 @@ void URenderShape(
             glBindTexture(GL_TEXTURE_CUBE_MAP, ShapeMap.at(name)->getTextureId());
 
             glDrawArrays(GL_TRIANGLES, 0, static_cast<GLsizei>(ShapeMap.at(name)->getVertices().size()));
+            
             glBindVertexArray(0);
             glDepthFunc(GL_LESS);
         };
     };
+
     // Deactivate the Vertex Array Object
     glBindVertexArray(0);
     // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
